@@ -1,9 +1,10 @@
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
-```
+
+
 name:- RISHI CHANDRAN R
 reg no :- 212223043005
-```
+
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
